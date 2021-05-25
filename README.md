@@ -1,2 +1,2 @@
 # Instrumentación Virtual
-Prácticas de Laboratorio y Teoría en Visual Studio
+Prácticas de Laboratorio y Teoría en LABVIEW
